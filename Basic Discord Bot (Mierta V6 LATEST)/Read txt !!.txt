@@ -1,0 +1,13 @@
+Open mierta v6 and go to the end and replace the bot token with your bot token.
+
+Check out last line, line 115, 161 to 168 and line 324
+
+follow hastags and those lines wont be problem
+
+
+Open pip list and install all the pip files
+
+
+How to finalize the project and run it with .exe ?
+1) got to a new terminal
+2) type pyinstaller filename.py --onefile
